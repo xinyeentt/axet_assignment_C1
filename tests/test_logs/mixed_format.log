@@ -1,0 +1,7 @@
+2026-10-22 09:00:01 INFO: Boot sequence initiated
+[ERROR] 2026-10-22T09:15:00Z Database connection failed
+2026-10-22T09:20:00Z [WARN] Memory usage high
+UnparsableLineWithoutTimestampOrLevel
+2026-10-22T10:00:00Z [ERROR] Out of memory
+[INFO] no timestamp here
+2026-10-22T11:00:00Z [CRITICAL] Service down

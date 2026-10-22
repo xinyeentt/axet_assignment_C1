@@ -1,0 +1,19 @@
+2026-10-22T09:00:01Z [INFO] Application started
+2026-10-22T09:00:05Z [INFO] Connected to database
+2026-10-22T09:01:00Z [ERROR] Connection timeout to database
+2026-10-22T09:02:00Z [WARN] Retrying connection attempt
+2026-10-22T09:02:15Z [INFO] Connection restored
+2026-10-22T09:15:30Z [ERROR] Failed to parse request body
+2026-10-22T09:15:31Z [ERROR] Failed to parse request body
+2026-10-22T09:20:00Z [ERROR] Connection timeout to database
+2026-10-22T09:30:00Z [WARN] Memory usage at 85%
+2026-10-22T10:00:00Z [ERROR] Authentication failed for user xyz
+2026-10-22T10:15:00Z [DEBUG] Cache hit ratio: 0.92
+2026-10-22T10:30:00Z [ERROR] Disk space low on /var
+2026-10-22T10:45:00Z [CRITICAL] Out of memory error
+2026-10-22T11:00:00Z [INFO] Graceful recovery initiated
+2026-10-22T11:15:00Z [ERROR] Connection timeout to database
+2026-10-22T11:30:00Z [WARN] Thread pool saturation
+2026-10-22T12:00:00Z [ERROR] Certificate expired
+2026-10-22T12:15:00Z [ERROR] Certificate expired
+2026-10-22T12:30:00Z [INFO] Service recovered
