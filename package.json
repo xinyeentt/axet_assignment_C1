@@ -1,0 +1,20 @@
+{
+  "name": "logscope",
+  "version": "1.0.0",
+  "description": "Lightweight CLI tool for post-incident log analysis",
+  "main": "src/logscope.js",
+  "bin": {
+    "logscope": "bin/logscope"
+  },
+  "scripts": {
+    "test": "node --test tests/**/*.test.js",
+    "gen-log": "node scripts/gen_log.js",
+    "start": "node bin/logscope"
+  },
+  "keywords": ["logs", "analysis", "cli", "operations"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
